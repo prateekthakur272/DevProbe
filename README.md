@@ -4,6 +4,12 @@
 
 Built with Jetpack Compose and Material 3 Expressive.
 
+<img width="200" height="480" alt="WhatsApp Image 2026-09-10 at 15 32 17" src="https://github.com/user-attachments/assets/20a53d4e-1999-482d-b8e5-1b812781b514" />
+<img width="200" height="480" alt="WhatsApp Image 2026-09-10 at 15 32 16 (2)" src="https://github.com/user-attachments/assets/eff77761-84e8-4aa0-bc5b-5630d5ec19b2" />
+<img width="200" height="480" alt="WhatsApp Image 2026-09-10 at 15 32 16 (1)" src="https://github.com/user-attachments/assets/95d22b56-bc42-49b8-bda0-cc549ac5027d" />
+<img width="200" height="480" alt="WhatsApp Image 2026-09-10 at 15 32 16" src="https://github.com/user-attachments/assets/12316e74-551c-447b-9508-2bef28a78622" />
+
+
 ## Features
 
 ### 🔍 APK Inspector
